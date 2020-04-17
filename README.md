@@ -23,9 +23,9 @@ BTW,it's my first time to submit open source project on GitHub and wanna stick a
 >The string below stands for year-month-day-hour(localtime)-minutes(localtime)-hour(timezonetime)-minutes(timezonetime)
 >
 >Please enter y-m-d-hr-min-hr(timezone_time)-min(timezone_time)-timezone_latitude:2010-1-17-11-58-12-00-120
-
+>
 >Please enter stick length and shadow length in "stick_l-shadow_l" format 15.10-21.40
-
+>
 >Tnow=11.966666666666667
 >Tsp=80
 >s=-20.572760575374385
