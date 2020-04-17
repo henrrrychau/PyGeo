@@ -17,9 +17,9 @@ inox), s(Direct solar point),D(Days counted from 1st Jan. to the date input),lat
 The code was written by a noob and there would be several bugs in it.
 BTW,it's my first time to submit open source project on GitHub and wanna stick a stone here.
 
-Here is the example:
+# Here is the example:
 
-"""
+
 The string below stands for year-month-day-hour(localtime)-minutes(localtime)-hour(timezonetime)-minutes(timezonetime)
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Please enter y-m-d-hr-min-hr(timezone_time)-min(timezone_time)-timezone_latitude:2010-1-17-11-58-12-00-120
@@ -30,4 +30,4 @@ s=-20.572760575374385
 D=17.0
 lat=34.21809233317617
 long=119.5
-"""
+
